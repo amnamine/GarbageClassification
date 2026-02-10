@@ -47,7 +47,3 @@ The model predicts **12 categories**:
 12. white-glass
 
 ---
-
-## 🧠 Model Architecture
-
-Base model:
